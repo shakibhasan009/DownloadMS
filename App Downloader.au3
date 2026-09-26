@@ -1,15 +1,3 @@
-#cs ----------------------------------------------------------------------------
-
- Shakib Hasan
- Mobile: +88 01723005120
- +88 01676109212
- Email: ShakibHasan009@Gmail.com
-
- $Model, $Owner, $PCname, $Manufacturer, $Serial, $Ram, $Processor, $ClockSpeed
- $OSSerial, $OSUser, $OSname, $InstallDate, $GPU, $RefreshRate, $Resolution, $GPURam
-
-#ce ----------------------------------------------------------------------------
-
 #RequireAdmin
 
 ; Register COM error handler to prevent hard script crashes on connection drops
